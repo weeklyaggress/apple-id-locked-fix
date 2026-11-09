@@ -2,14 +2,18 @@
 
 [Apple ID 被锁定、提示「已停用」「需要验证」怎么处理：四种锁定的区别、哪些能自救、哪些彻底无解，共享号被锁的三个真实原因，以及独享号走账户恢复的完整路径。附外区老号选购与换号入口。](https://nbid666.com/products)
 
+
+<p align="center"><b>👇 号已经被锁了？直接换个能用的，不用跟它较劲</b></p>
+
+<p align="center">
+  <a href="https://nbid666.com/products" title="各区独享老号现货，带密保、可转区、自动发货"><img src="assets/fix_buy.png" alt="换号继续用 · 独享老号现货" height="68"></a>
+  <br><br>
+  <a href="https://id.tangping.icu/" title="免费共享取号，密码定期轮换，失效自动重置"><img src="assets/fix_free.png" alt="先用免费的 · 立即取号" height="68"></a>
+  <br><br>
+  <a href="https://nbid666.com/products" title="美港台日韩土加菲全区现货，可对比价格"><img src="assets/fix_all.png" alt="看看别的区 · 美港台日韩土加" height="68"></a>
+</p>
+
 > 最近更新：2026-11-10
-
-
-<!-- AUTO-STATUS:BEGIN -->
-> **今日状态 · 2026-11-10**｜全站可用 **6 个账号**（美区 4 · 日本区 1 · 韩国区 1）｜近 7 日累计轮换 255 次，账号池持续维护
->
-> 共享号密码每 6 小时自动轮换，取号页实时显示每个账号的可用状态
-<!-- AUTO-STATUS:END -->
 
 ## 先分清是哪一种「锁定」
 
